@@ -1,1 +1,6 @@
-# to-do list
+- write conversion functions
+    - gallons to litres
+    - hours to muinutes
+    - feet to inches
+    - furlongs to nanometers
+
